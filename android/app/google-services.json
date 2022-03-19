@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "833501771875",
+    "firebase_url": "https://cs-first-firebase-demo-default-rtdb.firebaseio.com",
+    "project_id": "cs-first-firebase-demo",
+    "storage_bucket": "cs-first-firebase-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833501771875:android:9170dcdadf1e5a77946056",
+        "android_client_info": {
+          "package_name": "io.tanapon.csdev.csfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833501771875-msn90iva9vuu9j2nev49pcjtitbc7fpf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.tanapon.csdev.csfirebase",
+            "certificate_hash": "9e0ba36b9d129db4e5a8424a08755ae28fc8aee1"
+          }
+        },
+        {
+          "client_id": "833501771875-17jkc4e0n0f3jmkvet2b79jnnptkaund.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmx3NyL_A-yXb2MliCu6EgzsHO5sSqyDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833501771875-17jkc4e0n0f3jmkvet2b79jnnptkaund.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
